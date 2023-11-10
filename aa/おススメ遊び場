@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>楽しい遊び場</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f8f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #35424a;
+            color: #fff;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        div.container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+
+        h1 {
+            color: #35424a;
+        }
+
+        p {
+            line-height: 1.6;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            display: block;
+            margin: 20px 0;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>楽しい遊び場</h1>
+    </header>
+
+    <div class="container">
+        <h1></h1>大学生におすすめする遊び場三選
+        <p>津田沼駅周辺で大学生が楽しめる遊び場</p>
+        <img src="場所の画像.jpg" alt="素晴らしい場所の画像">
+    </div>
+
+    <!-- 他のおすすめの場所も同様に追加 -->
+
+</body>
+</html>
